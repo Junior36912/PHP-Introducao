@@ -28,3 +28,5 @@ echo 'Nota do filme: $notaFilme' . '\n';
 echo "\n";
 $anoLancamento = $argv[1] ?? 2022; // use: php .\screen-match-2.php
 echo "Ano de lançamento: " . $anoLancamento;
+
+?>
